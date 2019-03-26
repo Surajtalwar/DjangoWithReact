@@ -8,4 +8,4 @@ Run the following commands to get started:
 2. pip install -r requirements.txt
 3. npm i
 4. npm run build
-5. python manage.py runserver
+5. python3 manage.py runserver
