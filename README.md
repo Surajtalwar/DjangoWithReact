@@ -4,8 +4,8 @@ This project is broken up into a backend and frontend. The backend contains the 
 
 Run the following commands to get started:
 
-virtualenv env
-pip install -r requirements.txt
-npm i
-npm run build
-python manage.py runserver
+1. virtualenv env
+2. pip install -r requirements.txt
+3. npm i
+4. npm run build
+5. python manage.py runserver
